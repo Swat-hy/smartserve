@@ -1,24 +1,24 @@
-# SmartServe 🛠️📱
+# SmartServe
 
-**SmartServe** is a comprehensive, on-demand home service booking and management platform built using **Flask** and **MongoDB**. It connects customers looking for home services (plumbing, electrical work, cleaning, repairs, etc.) with verified local service providers.
+SmartServe is an on-demand home service booking and management platform built using Flask and MongoDB. It connects customers looking for home services (plumbing, electrical work, cleaning, repairs, etc.) with verified local service providers.
 
 ---
 
-## ✨ Features
+## Features
 
-### 👤 User Portal
+### User Portal
 - **User Authentication**: Secure signup and login.
 - **Provider Discovery**: Browse and filter verified service providers by category and location.
 - **Provider Profiles**: View provider credentials, hourly rates, experience, and customer reviews.
 - **Slot Booking**: Schedule appointments based on provider availability.
 - **Payment & Booking Management**: Track booking statuses and view payment receipts.
 
-### 🛠️ Service Provider Portal
-- **Registration & Verification**: Register with certificate/qualification document uploads.
+### Service Provider Portal
+- **Registration & Verification**: Register with certificate and qualification document uploads.
 - **Schedule Management**: Create and manage available time slots.
 - **Job Tracking**: View assigned jobs, update status to completed, and manage client requests.
 
-### 👑 Admin Portal
+### Admin Portal
 - **Verification Desk**: Review and approve/reject provider registrations and uploaded certificates.
 - **User Management**: View and manage customer accounts.
 - **Provider Management**: Monitor active service providers.
@@ -26,7 +26,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Backend**: Python 3.x, Flask, PyMongo, Gunicorn, Werkzeug
 - **Database**: MongoDB
@@ -34,7 +34,7 @@
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 smartserve/
@@ -57,7 +57,7 @@ smartserve/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -108,7 +108,7 @@ Ensure you have the following installed on your machine:
 
 ---
 
-## 🔑 Default Credentials
+## Default Credentials
 
 - **Admin Login:**
   - **Email:** `admin@gmail.com`
@@ -116,6 +116,6 @@ Ensure you have the following installed on your machine:
 
 ---
 
-## 📄 License
+## License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available under the MIT License.
